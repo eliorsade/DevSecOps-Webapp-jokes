@@ -6,7 +6,10 @@ Simple web application that will fetch a random joke from https://official-joke-
 The API supports only GET requests and returns a JSON-formatted response with a punchline ID and a random joke's punchline.
 
 ## Usage
-
+To execute the script, type the command:  
+```bash 
+python3 main.py
+```
 ### Prerequisites
 
 - Python 3.10
