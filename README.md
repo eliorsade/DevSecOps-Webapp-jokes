@@ -2,7 +2,7 @@
 
 ## Overview
 
-This simple web application will fetch a random joke from https://official-joke-api.appspot.com/random_joke.
+This simple web application will fetch a random joke from https://official-joke-api.appspot.com/random_joke.  
 The API supports only GET requests and returns a JSON-formatted response with a punchline ID and a random joke's punchline.
 
 ## Usage
