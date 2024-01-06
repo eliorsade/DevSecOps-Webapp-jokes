@@ -17,7 +17,7 @@ def index():
         joke = r.json()
         return jsonify({'punchline_id': joke['id'], 'punchline': joke['punchline']})
     else:
-        return 'Request failed, error code', r.status_code
+        return 'Request failed, error:', r.status_code
 
 
 if __name__ == '__main__':
