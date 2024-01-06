@@ -9,7 +9,7 @@ The API supports only GET requests and returns a JSON-formatted response with a 
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10
 - Flask
 - Requests library
 
