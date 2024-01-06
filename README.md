@@ -14,7 +14,6 @@ The API supports only GET requests and returns a JSON-formatted response with a 
 - Requests library
 
 ### Request
-The API endpoint / supports only GET requests. Here's an example using cURL:
 
 ```bash
 curl http://127.0.0.1:5000/
